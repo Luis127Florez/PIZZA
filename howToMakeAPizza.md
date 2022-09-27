@@ -1,4 +1,4 @@
 1. First item
-2. Tomas
+2. Tomate
 3. Third item
 4. Fourth item
